@@ -49,12 +49,12 @@ No es necesario ejecutar un comando adicional, pero asegúrate de que el emulado
 
 ### iOS
 ```sh
-npx react-native run-ios
+yarn ios
 ```
 
 ### Android
 ```sh
-npx react-native run-android
+yarn android
 ```
 
 
